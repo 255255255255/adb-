@@ -1,0 +1,1 @@
+adb shell setprop persist.debug.sf.showfps 0

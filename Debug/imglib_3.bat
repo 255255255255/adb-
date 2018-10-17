@@ -1,0 +1,1 @@
+adb shell setprop persist.camera.imglib.logs 3

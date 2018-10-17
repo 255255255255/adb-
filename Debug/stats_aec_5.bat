@@ -1,0 +1,1 @@
+adb shell setprop persist.camera.stats.aec.debug 5
