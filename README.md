@@ -1,5 +1,3 @@
-# adb-
-
 ---
 
 title: Android Debug Bridge
